@@ -1,5 +1,5 @@
 {
-  "name": "@splidejs/react-splide",
+  "name": "@racxsplide/react-splide",
   "version": "0.4.4",
   "description": "The Splide component for React.",
   "author": "Naotoshi Fujita",
@@ -17,17 +17,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Splidejs/react-splide.git"
+    "url": "https://github.com/racmathafidz/react-splide.git"
   },
   "bugs": {
-    "url": "https://github.com/Splidejs/react-splide/issues"
+    "url": "https://github.com/racmathafidz/react-splide/issues"
   },
   "peerDependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
   "dependencies": {
-    "@splidejs/splide": "^2.4.13"
+    "@racxsplide/splide": "^2.4.13"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
