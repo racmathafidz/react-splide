@@ -51,5 +51,6 @@
     "build": "webpack --mode production",
     "deploy": "gh-pages -d examples/dist",
     "transpile": "babel src/js -d dist/js --copy-files"
-  }
+  },
+"private": true 
 }
