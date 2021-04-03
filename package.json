@@ -27,7 +27,7 @@
     "react-dom": "16.13.1"
   },
   "dependencies": {
-    "@racxsplide/splide": "^2.4.13"
+    "@racxsplide/splide": "git+https://github.com/racmathafidz/splide.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
